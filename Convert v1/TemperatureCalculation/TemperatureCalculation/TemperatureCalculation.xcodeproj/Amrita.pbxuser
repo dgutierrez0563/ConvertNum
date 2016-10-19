@@ -1,0 +1,264 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TemperatureCalculationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 378}}";
+			sepNavSelRange = "{88, 6}";
+			sepNavVisRange = "{0, 564}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TemperatureCalculationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 448}}";
+			sepNavSelRange = "{94, 0}";
+			sepNavVisRange = "{0, 636}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TemperatureCalculation */ = {
+		activeExec = 0;
+		executables = (
+			F096BB3911198F1100BDB56D /* TemperatureCalculation */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TemperatureCalculationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 392}}";
+			sepNavSelRange = "{97, 0}";
+			sepNavVisRange = "{0, 595}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TemperatureCalculationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1176}}";
+			sepNavSelRange = "{97, 0}";
+			sepNavVisRange = "{0, 576}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F096BB3911198F1100BDB56D /* TemperatureCalculation */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TemperatureCalculation */;
+		codeSenseManager = F096BB3D11198F2F00BDB56D /* Code sense */;
+		executables = (
+			F096BB3911198F1100BDB56D /* TemperatureCalculation */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292762676;
+			PBXWorkspaceStateSaveDate = 292762676;
+		};
+		perUserProjectItems = {
+			F07890171173346600AE1860 /* PBXTextBookmark */ = F07890171173346600AE1860 /* PBXTextBookmark */;
+			F07890181173346600AE1860 /* PBXTextBookmark */ = F07890181173346600AE1860 /* PBXTextBookmark */;
+			F07890191173346600AE1860 /* PBXTextBookmark */ = F07890191173346600AE1860 /* PBXTextBookmark */;
+			F078901B1173346600AE1860 /* PBXTextBookmark */ = F078901B1173346600AE1860 /* PBXTextBookmark */;
+			F078901C1173346600AE1860 /* PBXTextBookmark */ = F078901C1173346600AE1860 /* PBXTextBookmark */;
+			F078901D1173346600AE1860 /* PBXTextBookmark */ = F078901D1173346600AE1860 /* PBXTextBookmark */;
+			F078901E1173346600AE1860 /* PBXTextBookmark */ = F078901E1173346600AE1860 /* PBXTextBookmark */;
+			F07890201173347500AE1860 /* PBXTextBookmark */ = F07890201173347500AE1860 /* PBXTextBookmark */;
+			F07890211173347500AE1860 /* PBXTextBookmark */ = F07890211173347500AE1860 /* PBXTextBookmark */;
+			F07890221173347500AE1860 /* PBXTextBookmark */ = F07890221173347500AE1860 /* PBXTextBookmark */;
+			F07890231173347500AE1860 /* PBXTextBookmark */ = F07890231173347500AE1860 /* PBXTextBookmark */;
+			F096BB4B1119951300BDB56D /* PBXTextBookmark */ = F096BB4B1119951300BDB56D /* PBXTextBookmark */;
+			F096BB4C1119951300BDB56D /* PBXTextBookmark */ = F096BB4C1119951300BDB56D /* PBXTextBookmark */;
+		};
+		sourceControlManager = F096BB3C11198F2F00BDB56D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 378}}";
+			sepNavSelRange = "{65, 0}";
+			sepNavVisRange = "{0, 371}";
+		};
+	};
+	F07890171173346600AE1860 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TemperatureCalculationAppDelegate.h */;
+		name = "TemperatureCalculationAppDelegate.h: 5";
+		rLen = 6;
+		rLoc = 88;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 0;
+	};
+	F07890181173346600AE1860 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TemperatureCalculationAppDelegate.m */;
+		name = "TemperatureCalculationAppDelegate.m: 5";
+		rLen = 0;
+		rLoc = 94;
+		rType = 0;
+		vrLen = 636;
+		vrLoc = 0;
+	};
+	F07890191173346600AE1860 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TemperatureCalculationViewController.h */;
+		name = "TemperatureCalculationViewController.h: 5";
+		rLen = 0;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 595;
+		vrLoc = 0;
+	};
+	F078901B1173346600AE1860 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TemperatureCalculationViewController.m */;
+		name = "TemperatureCalculationViewController.m: 18";
+		rLen = 0;
+		rLoc = 380;
+		rType = 0;
+		vrLen = 584;
+		vrLoc = 230;
+	};
+	F078901C1173346600AE1860 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TemperatureCalculationAppDelegate.h */;
+		name = "TemperatureCalculationAppDelegate.h: 5";
+		rLen = 6;
+		rLoc = 88;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 0;
+	};
+	F078901D1173346600AE1860 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TemperatureCalculationAppDelegate.m */;
+		name = "TemperatureCalculationAppDelegate.m: 5";
+		rLen = 0;
+		rLoc = 94;
+		rType = 0;
+		vrLen = 636;
+		vrLoc = 0;
+	};
+	F078901E1173346600AE1860 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TemperatureCalculationViewController.h */;
+		name = "TemperatureCalculationViewController.h: 5";
+		rLen = 0;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 595;
+		vrLoc = 0;
+	};
+	F07890201173347500AE1860 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TemperatureCalculationViewController.m */;
+		name = "TemperatureCalculationViewController.m: 5";
+		rLen = 0;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 0;
+	};
+	F07890211173347500AE1860 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	F07890221173347500AE1860 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TemperatureCalculationViewController.m */;
+		name = "TemperatureCalculationViewController.m: 5";
+		rLen = 0;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 0;
+	};
+	F07890231173347500AE1860 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 65;
+		rType = 0;
+		vrLen = 371;
+		vrLoc = 0;
+	};
+	F096BB3911198F1100BDB56D /* TemperatureCalculation */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TemperatureCalculation;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	F096BB3C11198F2F00BDB56D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	F096BB3D11198F2F00BDB56D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F096BB4B1119951300BDB56D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TemperatureCalculationViewController.h */;
+		name = "TemperatureCalculationViewController.h: 16";
+		rLen = 0;
+		rLoc = 365;
+		rType = 0;
+		vrLen = 420;
+		vrLoc = 176;
+	};
+	F096BB4C1119951300BDB56D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TemperatureCalculationViewController.m */;
+		name = "TemperatureCalculationViewController.m: 16";
+		rLen = 0;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 444;
+		vrLoc = 0;
+	};
+}
